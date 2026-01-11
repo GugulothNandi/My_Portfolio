@@ -1,4 +1,4 @@
-import Circle from "../Home/circle";
+import Circle from "../home/circle";
 
 function Home() {
   return (
